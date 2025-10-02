@@ -4,4 +4,4 @@
 
 ## 学习资源
 视频教程
-B站 Git 学习视频：https://www.bilibili.com/video/BV1HM411377j/?p=12
+B站 Git 学习视频：https://www.bilibili.com/video/BV1HM411377j
